@@ -1,0 +1,9 @@
+Diogo,15
+Mario,22
+Carlos,21
+Diogo,30
+Carlos,15
+Mario,27
+Mario,22
+Carlos,25
+Diogo,31
